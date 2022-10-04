@@ -1,3 +1,3 @@
 
-rootProject.name = "Database"
+rootProject.name = "database"
 
